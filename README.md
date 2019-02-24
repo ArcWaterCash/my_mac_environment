@@ -4,7 +4,7 @@
 # clone
 cd ~/gitrepos
 git clone https://github.com/ArcWaterCash/my_mac_environment.git
-cd my_local_env
+cd my_mac_environment
 ```
 
 ```shell
