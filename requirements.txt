@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######`
+jupyter
+pandas
+sklearn
+matplotlib
+xgboost
+lightgbm
+tqdm
+keras
