@@ -24,10 +24,23 @@ exec $SHELL -l
 ```
 
 ```shell
-# install anaconda
-pyenv install -l | grep anaconda
+# install list
+pyenv install -l
 
 # set version
-pyenv install anaconda3-x.x.x
-pyenv global anaconda3-x.x.x
+pyenv install 3.7.2
+pyenv global 3.7.2
+pyenv rehash
+```
+
+```shell
+# install python library
+pip install -r requirements.txt
+```
+
+```shell
+# brew update/upgrade
+brew upgrade
+brew update
+brew cask update
 ```
