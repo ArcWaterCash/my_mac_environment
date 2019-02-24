@@ -2,6 +2,13 @@
 僕のMac
 
 ```shell
+# clone
+cd ~/gitrepos
+git clone https://github.com/ArcWaterCash/my_local_env.git
+cd my_local_env
+```
+
+```shell
 # install homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
