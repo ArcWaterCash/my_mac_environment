@@ -1,10 +1,9 @@
-# my_local_env
-僕のMac
+# 僕のMac
 
 ```shell
 # clone
 cd ~/gitrepos
-git clone https://github.com/ArcWaterCash/my_local_env.git
+git clone https://github.com/ArcWaterCash/my_mac_environment.git
 cd my_local_env
 ```
 
