@@ -13,6 +13,13 @@ cd my_mac_environment
 ```
 
 ```shell
+# brew update/upgrade
+brew upgrade
+brew update
+brew cask update
+```
+
+```shell
 # install chrome
 brew cask install google-chrome
 ```
@@ -45,8 +52,8 @@ pip install -r requirements.txt
 ```
 
 ```shell
-# brew update/upgrade
-brew upgrade
-brew update
-brew cask update
+# git-lfs(for largefile) install
+brew install git-lfs
+# cd {repos_dir}
+# git lfs install
 ```
