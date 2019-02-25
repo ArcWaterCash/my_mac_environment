@@ -9,3 +9,4 @@ tqdm
 keras
 pylint
 kaggle
+octave_kernel
