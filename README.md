@@ -57,3 +57,7 @@ brew install git-lfs
 # cd {repos_dir}
 # git lfs install
 ```
+
+```shell
+brew install octave
+```
