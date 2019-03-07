@@ -9,3 +9,5 @@ tqdm
 keras
 pylint
 kaggle
+nltk
+imblearn
