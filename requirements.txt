@@ -9,7 +9,6 @@ tqdm
 keras
 pylint
 kaggle
-p
 nltk
 imblearn
 octave_kernel
