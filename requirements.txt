@@ -9,9 +9,8 @@ tqdm
 keras
 pylint
 kaggle
-<<<<<<< HEAD
+p
 nltk
 imblearn
-=======
 octave_kernel
->>>>>>> c620130ef0c04901534179517569cf3071d7c078
+pillow
