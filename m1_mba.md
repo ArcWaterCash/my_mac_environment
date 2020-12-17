@@ -22,3 +22,8 @@
     
     brew update
     ```
+1. git
+    ```
+    brew install git
+    ```
+
