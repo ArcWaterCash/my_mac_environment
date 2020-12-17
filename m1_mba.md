@@ -26,8 +26,4 @@
     ```
     brew install git
     ```
-1. pipenv
-    ```
-    brew install pipenv
-    ```
 
